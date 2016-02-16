@@ -20,4 +20,6 @@ There is also a daemon running in the background that automatically checks each 
 - Corrective actions if any of the above criteria fail
 - E-Mail alerts if the corrective actions do not resolve the issue  
 
+Demo video of the controller can be found <a href="https://www.youtube.com/watch?v=y9QqNyipVsg">here</a>
+
 <img src="https://raw.githubusercontent.com/joseph4321/receivercontroller/master/shot1.png" alt="Drawing" style="width: 400px;height: 400px"/>
