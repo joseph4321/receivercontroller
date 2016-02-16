@@ -22,4 +22,7 @@ There is also a daemon running in the background that automatically checks each 
 
 Demo video of the controller can be found <a href="https://www.youtube.com/watch?v=y9QqNyipVsg">here</a>
 
+Programming languages used: perl (backend), php (frontend), javascript (frontend)
+OS: CentOS 5.5
+
 <img src="https://raw.githubusercontent.com/joseph4321/receivercontroller/master/shot1.png" alt="Drawing" style="width: 400px;height: 400px"/>
